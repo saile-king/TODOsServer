@@ -23,6 +23,29 @@
         }
     ],
     "completed": false
+    },
+    {
+    "id": 2,
+    "name": "Refactorizar codigo",
+    "date": "2024-10-12",
+    "people": [
+        {
+            "fullName": "Marcos",
+            "age": 45,
+            "skills": [
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "fullName": "Juan",
+            "age": 56,
+            "skills": [
+                "Cobol"
+            ]
+        }
+    ],
+    "completed": false
     }
   ]
 }
