@@ -35,23 +35,27 @@
   ],
   "task": [
     {
-      "taskName": "Ordenar Array",
-      "dueDate": "2024-10-24",
-      "peoples": [
+    "name": "Ordenar Array",
+    "date": "2024-10-11",
+    "people": [
         {
-          "fullName": "keidy",
-          "age": 21,
-          "skills": [
-            {
-              "skill": "Java"
-            },
-            {
-              "skill": ".NET"
-            }
-          ]
+            "fullName": "keidy",
+            "age": 25,
+            "skills": [
+                "java",
+                ".net"
+            ]
+        },
+        {
+            "fullName": "Elias Ibañez",
+            "age": 25,
+            "skills": [
+                "Node",
+                "React"
+            ]
         }
-      ],
-      "id": 3
+    ],
+    "completed": false
     }
   ]
 }
