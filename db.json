@@ -35,10 +35,23 @@
   ],
   "task": [
     {
-      "userId": 1,
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": 1
+      "taskName": "Ordenar Array",
+      "dueDate": "2024-10-24",
+      "peoples": [
+        {
+          "fullName": "keidy",
+          "age": 21,
+          "skills": [
+            {
+              "skill": "Java"
+            },
+            {
+              "skill": ".NET"
+            }
+          ]
+        }
+      ],
+      "id": 3
     }
   ]
 }
