@@ -1,38 +1,4 @@
 {
-  "personas": [
-    {
-      "id": 1,
-      "nombres": "John Doe",
-      "edad": 21,
-      "habilidades": [
-        "JavaScript",
-        "Angular"
-      ]
-    },
-    {
-      "id": 2,
-      "nombres": "Maria Juana",
-      "edad": 19,
-      "habilidades": [
-        "HTML",
-        "SCSS"
-      ]
-    }
-  ],
-  "tareas": [
-    {
-      "userId": 1,
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": 1
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "title": "fugiat veniam minus",
-      "completed": 0
-    }
-  ],
   "task": [
     {
     "name": "Ordenar Array",
