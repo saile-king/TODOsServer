@@ -33,4 +33,24 @@
       "completed": 0
     }
   ]
+  "task": [
+    {
+      "taskName": "Ordenar Array",
+      "dueDate": "2024-10-31",
+      "peoples": [
+          {
+              "fullName": "keidy",
+              "age": 21,
+              "skills": [
+                  {
+                      "skill": "Java"
+                  },
+                  {
+                      "skill": ".Net"
+                  }
+              ]
+          }
+      ]
+    }
+  ]
 }
